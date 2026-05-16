@@ -25,5 +25,5 @@ var/
 
 
 # Project files
-data/
-data_landing_zone/
+# data/
+# data_landing_zone/
